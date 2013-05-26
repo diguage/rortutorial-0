@@ -1,2 +1,2 @@
-rortutorial
+Ruby on Rails Tutorial
 ===========
